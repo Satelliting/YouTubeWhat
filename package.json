@@ -1,6 +1,14 @@
 {
   "name": "youtubewhat",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satelliting/youtubewhat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Satelliting/youtubewhat/issues"
+  },
+  "homepage": "https://github.com/Satelliting/youtubewhat#readme",
   "description": "A lightweight utility to parse, validate, and clean YouTube URLs.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
