@@ -2,6 +2,8 @@
 
 A lightweight JavaScript/TypeScript utility for parsing, validating, and cleaning YouTube URLs.
 
+[![npm version](https://img.shields.io/npm/v/youtubewhat.svg)](https://www.npmjs.com/package/youtubewhat)
+
 ## Features
 
 - **Robust Parsing**: Handles standard, shortened, shorts, live, embed, and nocookie URLs.
