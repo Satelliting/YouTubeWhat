@@ -1,0 +1,32 @@
+{
+  "name": "youtubewhat",
+  "version": "1.0.0",
+  "description": "A lightweight utility to parse, validate, and clean YouTube URLs.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "youtube",
+    "url-parser",
+    "video-id",
+    "shorts",
+    "playlist",
+    "thumbnail"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.6",
+    "typescript": "^5.9.3"
+  }
+}
