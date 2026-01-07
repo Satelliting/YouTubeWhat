@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="YouTubeWhat Logo" width="400">
+</p>
+
 # YouTubeWhat
 
 A lightweight JavaScript/TypeScript utility for parsing, validating, and cleaning YouTube URLs.
